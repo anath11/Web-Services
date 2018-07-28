@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <?php
+      echo "Hellow World"<br>
+      echo "This is my first php Programming in php"<br>
+    ?>
+  </body>
+</html>
